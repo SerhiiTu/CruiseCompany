@@ -1,5 +1,5 @@
 <?php
-  include("partipicals/header.php");
+  include("partials/header.php");
 ?>
 
   <main>
@@ -20,5 +20,5 @@
   </main>
 
 <?php
-  include("partipicals/footer.php");
+  include("partials/footer.php");
 ?>
